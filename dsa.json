@@ -1,0 +1,52 @@
+[
+   
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-java-activity-7176823035751014400-SWgn?utm_source=share&utm_medium=member_desktop"
+    },
+   
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-html-activity-7186282765464547328--cBX?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-css-activity-7186284187153248257-T1-A?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=48&id=108784&format=png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-javascript-activity-7195837746341429250-fX7o?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=48&id=CgWei7hH4lGJ&format=png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_continuouslearning-techskills-innovation-activity-7178379816813883392-8Vqi?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/?size=48&id=90519&format=png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-spring-activity-7176830656784609280-z5XU?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-sql-activity-7186281542992756736-nSic?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/000000/angularjs.png",
+        "link": "https://drive.google.com/file/d/1CW47rJ5xkCCEdhq7CaIWGjKguQR_DQQc/view?usp=sharing"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/48/000000/typescript.png",
+        "link": "https://www.linkedin.com/posts/vikas-bandi-90bb191bb_generationindia-codecademy-typescript-activity-7195838570731880448-Jz-M?utm_source=share&utm_medium=member_desktop"
+    }
+    
+    
+]

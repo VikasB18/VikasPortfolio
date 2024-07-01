@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+   
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png"
+      },
+      {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/?size=48&id=90519&format=png"
+      },
+      
+      {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=48&id=20906&format=png"
+      },
+      {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
+    },
+    
+    {
+      "name": "TypeScript",
+      "icon": "https://img.icons8.com/color/48/000000/typescript.png"
+  },
+      {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    
+    {
+      "name": "Web Scraping",
+      "icon": "https://img.icons8.com/color/48/000000/web.png"
+  },
+      {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    }
+    
+      
+]
