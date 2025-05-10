@@ -54,11 +54,11 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Sanket Rahangdale";
+        document.title = "Experience | Portfolio Vikas";
         $("#favicon").attr("href","/assets/images/favicon.ico");
     }
     else {
-        document.title = "Experience | Portfolio Sanket Rahangdale";
+        document.title = "Experience | Portfolio Vikas";
         $("#favicon").attr("href","/assets/images/favicon.ico");
     }
 });
